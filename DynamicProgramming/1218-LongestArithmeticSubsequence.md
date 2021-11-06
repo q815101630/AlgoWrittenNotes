@@ -14,7 +14,7 @@ https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-differe
 * 根据 early return，也就是我们可以根据哈希表优化！
 
 
-![image-20211106141135982](https://raw.githubusercontent.com/q815101630/pic_storage/main/img/image-20211106141135982.png)
+<img src="https://raw.githubusercontent.com/q815101630/pic_storage/main/img/image-20211106141135982.png" alt="image-20211106141135982" style="zoom:50%;" />
 
 ```python
 class Solution:
