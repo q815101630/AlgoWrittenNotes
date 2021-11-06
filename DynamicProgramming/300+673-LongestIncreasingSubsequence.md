@@ -6,9 +6,9 @@ Leetcode 300 + 673
 
 673 是 lc300 的进阶。相较于lc300，这道题要求多存了一个信息，具体看note
 
-![image-20211106141513631](https://raw.githubusercontent.com/q815101630/pic_storage/main/img/image-20211106141513631.png)
+<img src="https://raw.githubusercontent.com/q815101630/pic_storage/main/img/image-20211106141513631.png" alt="image-20211106141513631" style="zoom: 50%;" />
 
-![image-20211106141522308](https://raw.githubusercontent.com/q815101630/pic_storage/main/img/image-20211106141522308.png)
+<img src="https://raw.githubusercontent.com/q815101630/pic_storage/main/img/image-20211106141522308.png" alt="image-20211106141522308" style="zoom:50%;" />
 
 ```python
 #lc300
