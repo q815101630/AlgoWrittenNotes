@@ -14,9 +14,7 @@ https://leetcode-cn.com/problems/unique-paths/
 # 没压缩
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        row1 = [1]*n
-        row2 = [0]*n
-        row2[0] = 1
+        dp = [[0]*n for _ in range(m)]
 
         for i in range(m):
             dp[i][0] = 1
